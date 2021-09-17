@@ -4,6 +4,9 @@ GET LUCKY
 
 text for 1-st commit 
 
+add text for 2-nd commit 
+
+
 
 Like the legend of the phoenix
 All ends with beginnings
