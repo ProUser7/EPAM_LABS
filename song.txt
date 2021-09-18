@@ -1,7 +1,7 @@
 GET LUCKY
 
 
-
+ways 
 text for 1-st commit 
 
 add text for 2-nd commit 
